@@ -2,7 +2,7 @@
 # BackwardsToChallenge 倒放挑战小程序
 
 
-+从B站上看过倒放挑战之后也想体验下，心血来潮一个晚上完成了实现，界面较为简陋，功能足够。
++ 从B站上看过倒放挑战之后也想体验下，心血来潮一个晚上完成了实现，界面较为简陋，功能足够。
 	+ After seeing the inverted challenge on Bilibili, I also wanted to experience it. I realized it on a whim in one night.The interface is relatively simple with sufficient functions
 
 + Botton_record 录  音：按下后开始对麦克风说话
